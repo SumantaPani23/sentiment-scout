@@ -4,7 +4,7 @@ SentimentScout is an AI-powered sentiment analysis tool built with Python and St
 
 🚀 Live Demo
 
-Click here to try the app!
+https://sentiment-scout-sumanta.streamlit.app
 
 ✨ Features
 
@@ -46,5 +46,6 @@ streamlit run app.py
 
 This app requires a Google Gemini API Key.
 You can get one for free here: Google AI Studio
+
 
 Created by Sumanta Pani
