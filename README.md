@@ -4,7 +4,7 @@ SentimentScout is an AI-powered sentiment analysis tool built with Python and St
 
 🚀 Live Demo
 
-https://sentiment-scout-sumanta.streamlit.app
+https://sentiment-scout-live.streamlit.app
 
 ✨ Features
 
@@ -49,3 +49,4 @@ You can get one for free here: Google AI Studio
 
 
 Created by Sumanta Pani
+
